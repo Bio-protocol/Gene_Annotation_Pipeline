@@ -18,11 +18,6 @@ To guide eBook authors having a better sense of the workflow layout, here we bri
     - Provide the installation details.
     - Show a small proportion of the input data unless the data file is in a well-known standard format, i.e., the `head` or `tail` of the input data.
 
-## Overview of an example workflow: Fastq data quality checking
-
-This is an example workflow to check the quality of the paired-end fastq files using `FastQC` software.
-
-![](graphs/diagram.png)
 
 ## Installation
 
