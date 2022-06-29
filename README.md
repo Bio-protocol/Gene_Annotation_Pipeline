@@ -45,8 +45,6 @@ This is an example workflow to check the quality of the paired-end fastq files u
 
 The example data used here is the FASTA file.  
 
-```
-
 ## Major steps
 
 step 1. Set up each configure file, feed input data, evidence data to the .ctl file, and set parameter as needed.
