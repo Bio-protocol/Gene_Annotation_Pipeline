@@ -38,7 +38,7 @@ To guide eBook authors having a better sense of the workflow layout, here we bri
 
 ## Input Data
 
-The example data used here is the FASTA file.  
+The example data used here is the FASTA file of genome sequence, here we use maize RP125 genome chr1 sequence from Nie et al., 2021.  
 
 ## Major steps
 
