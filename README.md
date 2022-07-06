@@ -61,6 +61,7 @@ step 5. Load the gff file into IGV or JBrowse. Instructions for IGV and JBrowse 
    IGV: http://software.broadinstitute.org/software/igv/UserGuide
 
    JBrowse: https://biohpc.cornell.edu/lab/userguide.aspx?a=software&i=357#c
+![image](https://user-images.githubusercontent.com/104145728/177499033-e3316b46-151e-43dd-af79-e01788f37a7b.png)
 
 ## Expected results
 
