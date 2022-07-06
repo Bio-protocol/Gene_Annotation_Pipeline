@@ -66,11 +66,11 @@ The example data used here is the FASTA file of genome sequence, here we use mai
    IGV: http://software.broadinstitute.org/software/igv/UserGuide
 
    JBrowse: https://biohpc.cornell.edu/lab/userguide.aspx?a=software&i=357#c
-![image](https://user-images.githubusercontent.com/104145728/177499033-e3316b46-151e-43dd-af79-e01788f37a7b.png)
+
 
 ## Expected results
 
 GFF3 file with gene structure information, and AED score
-
+![image](https://user-images.githubusercontent.com/104145728/177499033-e3316b46-151e-43dd-af79-e01788f37a7b.png)
 ## License
 It is a free and open source software, licensed under []() (choose a license from the suggested list:  [GPLv3](https://github.com/github/choosealicense.com/blob/gh-pages/_licenses/gpl-3.0.txt), [MIT](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md), or [CC BY 4.0](https://github.com/github/choosealicense.com/blob/gh-pages/_licenses/cc-by-4.0.txt)).
