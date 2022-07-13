@@ -43,7 +43,7 @@ The example data used here is the FASTA file of genome sequence, here we use mai
 ## Major steps
 
 ## step 1. 
-  Set up each configure file, feed input data, evidence data to the .ctl file, and set parameter as needed.
+  Set up each configure file: Maker_opts.ctl; Maker_exe.ctl; Maker_evm.ctl; and Maker_bopts.ctl, provide path of input data, evidence data to the .ctl file, and set parameter as needed.
 
 ## step 2.
   Run script ‘run_maker.sh’ to annotate the genomes.
